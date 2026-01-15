@@ -17,10 +17,10 @@ The dashboard was built using the following tools and technologies :<br>
 📁 File Formats – .pbix for dashboard development and .png for visual previews.
 
 ### 4. Data Source
-Source: Kaggle – Spotify Tracks Dataset
+Source: Kaggle – Spotify Tracks Dataset,
 Data Coverage:
-952 unique tracks
-489+ billion total streams
+952 unique tracks,
+489+ billion total streams,
 Attributes include track name, artist, release date, streaming counts, and audio features such as energy, danceability, speechiness, liveness, and instrumentalness
 
 ### 5. Features / Highlights
@@ -32,9 +32,9 @@ When are tracks most actively streamed?
 
 • Goal of the Dashboard
 To deliver an interactive analytical tool that :
-Identifies top-performing tracks and artists
-Analyzes streaming behavior over time
-Explores audio feature patterns associated with highly streamed songs
+Identifies top-performing tracks and artists,
+Analyzes streaming behavior over time,
+Explores audio feature patterns associated with highly streamed songs,
 Enables data-driven insights for music analysis and trend discovery
 
 • Walkthrough of Key Visuals
@@ -44,12 +44,12 @@ Total Tracks Analyzed: 952
 Average Streams per Track: 514 Million
 
 🔹 Streams by Release Date (Line Chart)
-Visualizes how streaming volume evolves across release years
+Visualizes how streaming volume evolves across release years,
 Highlights the significant growth in music consumption post-2015
 
 🔹 Artist(s) Most Streamed Track (Highlight Card)
-Identifies “Blinding Lights” by The Weeknd as the most streamed track
-3.7+ Billion Streams
+Identifies “Blinding Lights” by The Weeknd as the most streamed track,
+3.7+ Billion Streams,
 Displays detailed music attributes such as:
 Energy: 80%
 Danceability: 50%
@@ -57,19 +57,19 @@ Speechiness: 7%
 Key: C# | Mode: Major
 
 🔹 Tracks & Streams by Month (Table)
-Shows monthly distribution of tracks and average streams
+Shows monthly distribution of tracks and average streams,
 Helps identify months with higher-performing releases
 
 🔹 Daily Streams by Day of Week (Bar Chart)
-Analyzes listener engagement across weekdays
+Analyzes listener engagement across weekdays,
 Reveals peak streaming activity toward the end of the week
 
 🔹 Top 5 Most Streamed Tracks (Image Cards)
 Visual ranking of the most popular tracks including:
-Blinding Lights – The Weeknd
-Shape of You – Ed Sheeran
-Someone You Loved – Lewis Capaldi
-Dance Monkey – Tones and I
+Blinding Lights – The Weekend,
+Shape of You – Ed Sheeran,
+Someone You Loved – Lewis Capaldi,
+Dance Monkey – Tones and I,
 Sunflower – Post Malone
 
 • Business Impact & Insights
